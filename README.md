@@ -8,3 +8,5 @@
 sutoyo-tech/sutoyo-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+https://aqua.spheron.network/#/org/62cff66631a4d30012a25e86/project/62d010cc31a4d30012a26253/deployments/62d015e231a4d30012a263b9
